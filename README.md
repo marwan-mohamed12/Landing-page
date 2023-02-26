@@ -3,7 +3,7 @@ This project is a website landing page for Blondi, a web development company. Th
 - Live Demo: 
 
 ## Table of Contents
-- Features
+- <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#features">Features</a>
 - Technologies Used
 - Getting Started
 - Contributing
