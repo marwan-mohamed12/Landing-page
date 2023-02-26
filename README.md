@@ -28,12 +28,9 @@ The Blondi landing page website was built using the following technologies:
 - JavaScript: Used to add interactivity to the website and make it more engaging
 
 ## Getting Started
-1- Clone the repository by running the following command in your terminal:
-   `git clone https://github.com/your-username/blondi-web-dev-landing-page.git`
-2- Navigate to the project directory: 
-`cd landing-page`
-3- Open the index.html file in your browser 
-`open index.html`
+1- Clone the repository by running the following command in your terminal: `git clone https://github.com/your-username/blondi-web-dev-landing-page.git`
+2- Navigate to the project directory: `cd landing-page`
+3- Open the index.html file in your browser `open index.html`
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Before submitting a pull request, please make sure that your changes align with the project's goals and style.
