@@ -1,6 +1,6 @@
 # Blondi Web Development Company Landing Page
 This project is a website landing page for Blondi, a web development company. The website showcases the services offered by the company and is built using HTML, CSS, Bootstrap, and JavaScript.
-- Live Demo: 
+- <a href="https://marwan-mohamed12.github.io/Landing-page/">Live Demo</a>
 
 ## Table of Contents
 - <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#features">Features</a>
