@@ -7,7 +7,7 @@ This project is a website landing page for Blondi, a web development company. Th
 - <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#technologies-used">Technologies Used</a>
 - <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#getting-started">Getting Started</a>
 - <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#contributing">Contributing</a>
-- 
+
 ## Features
 The Blondi landing page website has the following features:
 
