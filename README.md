@@ -4,10 +4,10 @@ This project is a website landing page for Blondi, a web development company. Th
 
 ## Table of Contents
 - <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#features">Features</a>
-- Technologies Used
-- Getting Started
-- Contributing
-
+- <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#technologies-used">Technologies Used</a>
+- <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#getting-started">Getting Started</a>
+- <a href="https://github.com/marwan-mohamed12/Landing-page/blob/main/README.md#contributing">Contributing</a>
+- 
 ## Features
 The Blondi landing page website has the following features:
 
@@ -28,10 +28,10 @@ The Blondi landing page website was built using the following technologies:
 - JavaScript: Used to add interactivity to the website and make it more engaging
 
 ## Getting Started
-1- Clone the repository by running the following command in your terminal:
+1 - Clone the repository by running the following command in your terminal:
    `git clone https://github.com/your-username/blondi-web-dev-landing-page.git`
-2- Navigate to the project directory: `cd landing-page`
-3- Open the index.html file in your browser `open index.html`
+2 - Navigate to the project directory: `cd landing-page`
+3 - Open the index.html file in your browser `open index.html`
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Before submitting a pull request, please make sure that your changes align with the project's goals and style.
